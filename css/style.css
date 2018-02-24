@@ -1,0 +1,15 @@
+.cursive {
+	font-family: 'Pacifico', cursive;
+}
+
+p h3 h4 h5 {
+	font-family: 'Montserrat', sans-serif;
+}
+
+.section {
+	padding: 25px 25px 25px 25px;
+}
+
+.card-body {
+	margin: 10px;
+}
